@@ -7,7 +7,6 @@ gunicorn==19.8.1
 idna==2.6
 itsdangerous==0.24
 jinja2==2.10
-markupsafe==1.0
 python-telegram-bot==10.1.0
 requests==2.18.4
 urllib3==1.22
